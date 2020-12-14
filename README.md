@@ -7,3 +7,5 @@ Install required modules.
 Update the settings in `price_alert.py`, make sure to update the Pushbullet Token!
 
 Run the application and wait for your alert!
+
+Test notifications by running the `test.py` script.
